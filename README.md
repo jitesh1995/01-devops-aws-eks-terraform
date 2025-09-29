@@ -21,3 +21,4 @@ cat > LICENSE << 'EOF'
 MIT License
 Copyright (c) 2025 Jitesh Khemchandani
 ...
+# trigger CI
