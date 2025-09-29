@@ -22,3 +22,5 @@ MIT License
 Copyright (c) 2025 Jitesh Khemchandani
 ...
 # trigger CI
+
+![Terraform CI](https://github.com/jitesh1995/01-devops-aws-eks-terraform/actions/workflows/terraform.yml/badge.svg)
